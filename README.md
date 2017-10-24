@@ -1,2 +1,2 @@
 # temp
-A repository for testing, for fun, for anything unimportant
+A repository for testing, for fun, for anything unimportant.
